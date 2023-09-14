@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FilipeHenrique
 - 👀 I’m interested in Web Development in general
-- 🌱 Currently foccusing into Back End development architecture
+- 🌱 Currently focusing on Back End development and software architecture
 
 <!---
 FilipeHenrique/FilipeHenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
