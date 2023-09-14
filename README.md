@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FilipeHenrique
 - 👀 I’m interested in Web Development in general
-- 🌱 I’m currently learning ReactJS/NextJS and NodeJS
+- 🌱 Currently foccusing into Back End development architecture
 
 <!---
 FilipeHenrique/FilipeHenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
